@@ -7,7 +7,7 @@ Welcome to the official GitHub organization for **OffsideAI**! We specialize in 
 
 ### Paradigmatic
 
-(Paradigmatic)[https://github.com/offsideAI/Paradigmatic] is our privacy-focused, secure and private, open-source AgenticAI tech stack
+[Paradigmatic](https://github.com/offsideAI/Paradigmatic) is our privacy-focused, secure and private, open-source AgenticAI tech stack
 
 
 ---
