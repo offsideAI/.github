@@ -4,6 +4,10 @@
 
 Welcome to the official GitHub organization for **OffsideAI**! We specialize in cutting-edge AI-powered fullstack solutions tailored for enterprise needs. Whether it's AI product strategy, LLM Ops, ML Ops, or developing intelligent applications, we're here to transform your business with the power of AI and ML.
 
+
+### Paradigmatic
+
+Paradigmatic is our privacy-focused, secure and private, open-source AgenticAI tech stack
 ---
 
 ## **What We Do**
